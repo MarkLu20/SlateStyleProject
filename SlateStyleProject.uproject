@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7669384A-4722-A50B-1B76-A7B53FB801D1}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SlateStyleProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
